@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* index.css */
+#roots {
+    max-width: 100% !important;
+    margin: 0 auto;
+    padding: 0rem !important;
+    text-align: center;
+}
